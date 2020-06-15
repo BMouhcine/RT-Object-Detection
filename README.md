@@ -11,7 +11,7 @@ Conception et développement d'application de suivi de mouvement dans une vidéo
 ---
 ---
 L'hiérarchie des fichiers requise: 
-![alt text](https://i.imgur.com/ztNtLS0.png)
+![alt text](https://github.com/BMouhcine/RT-Object-Detection/blob/master/781974614.jpg?raw=true)
 ---
 ---
 
