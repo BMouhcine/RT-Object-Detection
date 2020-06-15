@@ -41,5 +41,5 @@ Le lien vers la dataset utilisé pour entraîner les poids dans le point (3.): [
 Extraite de Kaggle et pré-traitée pour avoir les annotations de format txt. adapté à YOLO: [Drone-dataset-uav](https://drive.google.com/file/d/1n5r4TSCzd9oT1Dc7sE3kY9vT3KJEBCQH/view?usp=sharing)
 
 7) ###    Petits démos: 
-[Démo1](https://drive.google.com/file/d/1EAIBGjd_MuLxEfmto-nLDdUt7TqtU0mU/view?usp=sharing)
+[Démo1](https://drive.google.com/file/d/1EAIBGjd_MuLxEfmto-nLDdUt7TqtU0mU/view?usp=sharing)  
 [Démo1](https://drive.google.com/file/d/1Y3V_cewd2jg2y_vatq8oVtXbPp63HVan/view?usp=sharing)
