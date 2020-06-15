@@ -4,7 +4,7 @@ Conception et développement d'application de suivi de mouvement dans une vidéo
 ---
 # Pré-requis: 
 
-> Execution sur Jupyter/colab.  
+> Execution sur Jupyter/colab sous runtime GPU
 > tensorflow-gpu==1.14  
 > Keras==2.3.1  
 
