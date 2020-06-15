@@ -38,5 +38,5 @@ Le lien vers les poids pré-entraînés: [YOLOv3-Keras-Weights](https://drive.go
 Le lien vers la dataset utilisé pour entraîner les poids dans le point (3.): [MS COCO](http://cocodataset.org/)
 
 6) ###    Drone Dataset: 
-Extraite de Kaggle et pré-traitée pour avoir les annotations de format txt. adapté à YOLO: [Drone-dataset-uav](https://drive.google.com/file/d/1Ze-WTx77K9-iuwYx7oS_I78_eyzgo6mb/view?usp=sharing)
+Extraite de Kaggle et pré-traitée pour avoir les annotations de format txt. adapté à YOLO: [Drone-dataset-uav](https://drive.google.com/file/d/1n5r4TSCzd9oT1Dc7sE3kY9vT3KJEBCQH/view?usp=sharing)
 
